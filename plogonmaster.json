@@ -16,5 +16,23 @@
     "DownloadLinkTesting": "https://github.com/anonaz/mare-repo/releases/download/1.11.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/anonaz/mare-repo/releases/download/1.11.1.0/latest.zip",
     "LastUpdate": "20250824"
+  },
+  {
+    "Author": "darkarchon (edit anonaz)",
+    "Name": "Meow Synchronos",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "InternalName": "MeowSynchronos",
+    "AssemblyVersion": "1.11.1.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/anonaz/mare-repo",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "Punchline": "Let others see you as you see yourself.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/anonaz/mare-repo/releases/download/1.11.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/anonaz/mare-repo/releases/download/1.11.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/anonaz/mare-repo/releases/download/1.11.1.0/latest.zip",
+    "LastUpdate": "20250824"
   }
 ]
